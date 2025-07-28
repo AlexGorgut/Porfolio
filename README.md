@@ -38,3 +38,5 @@ My security research spans diverse blockchain platforms. I have
 | Oct 2024 | [Ethos Network Social Contracts](https://audits.sherlock.xyz/contests/584) | Solidity |
 | Oct 2024 | [Kleidi](https://code4rena.com/audits/2024-10-kleidi) | Solidity |
 | Oct 2024 | [StakeUp Cantina](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | Solidity |
+| July 2024 | [password-audit](https://github.com/AlexGorgut/audit-reports/blob/main/2024-07-04%20password-audit.pdf) | Solidity |
+| July 2024 | [PuppyRaffle](https://github.com/AlexGorgut/audit-reports/blob/main/2024-07-15_PuppyRafle_training%20report.pdf) | Solidity |
